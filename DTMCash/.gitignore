@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
+Data_store_path/ChariotRace_new/*
+Alternate Versions/OpCASH1/Data_store_path/*
+Alternate Versions/OpCASH2/Data_store_path/*

@@ -1,0 +1,3 @@
+[submodule "DTMCash"]
+	path = DTMCash
+	url = git@github.com:LABORA-INF-UFG/DTMCash.git
