@@ -1,5 +1,5 @@
 # DTMCash: explorando redundância de viewports de usuários para otimização de streaming de vídeo 360°
-Dynamic Tile and Multi-user Edge Cache Utilization for 360-Degree Video S(H)treaming - DTMCash
+Repositório referente ao artigo "DTMCash: explorando redundância de viewports de usuários para otimização de streaming de vídeo 360°" publicado no SBRC 2024 
 
 # Como citar
 Caso o conteúdo auxilie em sua pesquisa, considere citar o artigo:
@@ -20,3 +20,4 @@ Caso o conteúdo auxilie em sua pesquisa, considere citar o artigo:
 }
 ```
 # Sobre o conteúdo
+1- DTMCash a versão 1 está no 
