@@ -20,10 +20,10 @@ Caso o conteúdo auxilie em sua pesquisa, considere citar o artigo:
 }
 ```
 # Sobre o conteúdo
-1- DTMCash localizado em dtmcash_main.py
-2- OpCASHv1 localizado em DTMCash/Alternate Versions/OpCASH1/opcash_main.py
-3- OpCASHv2 localizado em DTMCash/Alternate Versions/OpCASH2/opcash_main.py
-
+1. DTMCash localizado em dtmcash_main.py
+2. OpCASHv1 localizado em DTMCash/Alternate Versions/OpCASH1/opcash_main.py
+3. OpCASHv2 localizado em DTMCash/Alternate Versions/OpCASH2/opcash_main.py
+   
 # Pacotes requeridos para funcionamento
 
 
