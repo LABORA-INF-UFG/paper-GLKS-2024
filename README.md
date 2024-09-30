@@ -15,8 +15,8 @@ Caso o conteúdo auxilie em sua pesquisa, considere citar o artigo:
         pages = {?},
         publisher = {SBC},
         address = {Niterói, RJ, Brasil},
-        doi = {?},
-        url = {?}
+        doi = {https://doi.org/10.5753/sbrc.2024.1414},
+        url = {https://sol.sbc.org.br/index.php/sbrc/article/view/29809?articlesBySameAuthorPage=2}
 }
 ```
 # Sobre o conteúdo
